@@ -1,5 +1,5 @@
 # Open-Oven.github.io
-An open data archive for India.
+An open data archive for India.See [github](https://github.com/Open-Oven) for more info.
 
 # Our projects
 
